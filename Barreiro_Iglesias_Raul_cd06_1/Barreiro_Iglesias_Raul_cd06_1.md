@@ -1,3 +1,7 @@
+---
+puppeteer:
+    timeout: 3000
+---
 # TaskMaster - Aplicación de Gestión de Tareas
 
 ## Descripción
