@@ -65,7 +65,7 @@ classDiagram
     - nombre: String
     - email: String
     +agregarTarea(tarea: Tarea): void
-    +eliminarTarea(tarea : Tarea) : void
+    +eliminarTarea(tarea: Tarea): void
     }
     class Tarea{
     - titulo: String
@@ -73,7 +73,7 @@ classDiagram
     - completada: Boolean
     + marcarComoCompletada() : void
     }
-    Usuario "1"--> "*" Tarea : asigna
+    Usuario "1" --> "*" Tarea : asigna
 ```
 
 ## Capturas de pantalla
