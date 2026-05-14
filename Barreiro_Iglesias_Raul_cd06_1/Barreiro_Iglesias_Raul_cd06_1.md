@@ -81,3 +81,13 @@ classDiagram
 A continuación, una vista previa de la interfaz de usuario:
 
 ![Captura](image.png)
+draw.io integration
+github copilot chat
+live server
+markdown all in one
+markdown emoji
+markdown link updater
+markdown pdf
+markdown preview enhanced
+markdown preview mermaid support
+markdownlint
