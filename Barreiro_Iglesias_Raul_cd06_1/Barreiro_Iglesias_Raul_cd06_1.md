@@ -6,14 +6,14 @@ TaskMaster es una aplicación diseñada para mejorar la productividad, permitien
 
 ## Características
 
-- Creación y edición de tareas.
-- Asignación de fechas límites y prioridades.
+- :heavy_check_mark: Creación y edición de tareas.
+- :date: Asignación de fechas límites y prioridades.
   - Prioridad baja, media, alta.
   - Fechas límite personalizadas con control de calendario.
-- Organización en categorías y etiquetas.
-- Marcar tareas como completadas.
-- Notificaciones y recordatorios automáticos.
-- Visualización en lista y tablero Kanban.
+- :open_file_folder: Organización en categorías y etiquetas.
+- :white_check_mark: Marcar tareas como completadas.
+- :bell: Notificaciones y recordatorios automáticos.
+- :bar_chart: Visualización en lista y tablero Kanban.
   
 ## Instalación
 
@@ -81,13 +81,40 @@ classDiagram
 A continuación, una vista previa de la interfaz de usuario:
 
 ![Captura](image.png)
-draw.io integration
-github copilot chat
-live server
-markdown all in one
-markdown emoji
-markdown link updater
-markdown pdf
-markdown preview enhanced
-markdown preview mermaid support
-markdownlint
+
+Para registrar una nueva tarea, sigue estos pasos:
+
+1. Haz clic en el botón **Nueva tarea**.
+2. Completa el formulario con los datos de la tarea.
+   1. **Título**: Nombre de la tarea.
+   2. **Prioridad**: Nivel de importancia(baja, media, alta).
+   3. **Fecha Límite**: Día y hora de vencimiento.
+3. Haz clic en **Guardar** para crear la tarea.
+4. ¡Listo! La tarea se ha registrado correctamente.
+
+Si deseas que el título de la tarea sea visible en negrita, escríbelo entre dobles asteriscos: \*\*Título de la tarea \*\*.
+
+## Historial de versiones
+
+En la siguiente tabla se muestran las versiones publicadas de la aplicación:
+
+|**Versión** |**Fecha** |**Descripción** |
+|----------: |:-----------: |:----------- |
+|1.0.0 |01/01/2024 |Lanzamiento inicial |
+|1.1.0 |15/01/2024 |Nuevas funcionalidades |
+| 1.1.1|30/01/2024 |Corrección de errores |
+| 1.2.0|15/02/2024 |Mejoras de rendimiento |
+| 2.0.0|15/03/2024 |Versión estable |
+| 2.1.0|30/03/2024 |Corrección de errores |
+| 2.2.0|15/04/2024 |Mejoras de usabilidad |
+|2.3.0|30/04/2024|Nuevas funcionalidades|
+
+## Créditos
+
+Desarrollado por [Raúl](https://github.com/RaulBarreirorbi/cd_6_1)
+
+(incluye un enlace a tu perfil de GitHub).
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT.
